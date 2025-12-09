@@ -1,3 +1,5 @@
+Alumno: Alejandro D'Amen
+
 WorldCup
 
 La aplicación WorldCup tiene algunos errores que deben ser corregidos:
